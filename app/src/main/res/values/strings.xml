@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Secondarydisplaydemo</string>
+
+    <string name="dollar_1">$1</string>
+    <string name="dollar_2">$2</string>
+    <string name="dollar_5">$5</string>
+    <string name="dollar_10">$10</string>
+    <string name="dollar_20">$20</string>
+    <string name="dollar_50">$50</string>
+    <string name="dollar_100">$100</string>
+    <string name="dollar_0">$0.00</string>
+
+    <string name="calc_0">0</string>
+    <string name="calc_1">1</string>
+    <string name="calc_2">2</string>
+    <string name="calc_3">3</string>
+    <string name="calc_4">4</string>
+    <string name="calc_5">5</string>
+    <string name="calc_6">6</string>
+    <string name="calc_7">7</string>
+    <string name="calc_8">8</string>
+    <string name="calc_9">9</string>
+    <string name="calc_dot">.</string>
+    <string name="calc_ce">CE</string>
+    <string name="calc_ok">OK</string>
+
+    <string name="other">Other</string>
+    <string name="ebt">EBT</string>
+    <string name="gift_cart">Gift Card</string>
+
+    <string name="price_level">Priec LVL</string>
+    <string name="qty">Qty</string>
+    <string name="item_code">Item Code</string>
+    <string name="amount">Amount</string>
+
+    <string name="bills">Bills</string>
+    <string name="count">Count</string>
+
+    <string name="sub_total">Sub Total</string>
+    <string name="item_count">Item Count</string>
+    <string name="dummy_100">$100.00</string>
+    <string name="tax_total">Tax Total</string>
+    <string name="total_pay">Total Pay</string>
+    <string name="discount">Discount</string>
+    <string name="due">Due</string>
+    <string name="payment_method_and_other">Payment Method &amp; Other</string>
+
+    <string name="cash">Cash</string>
+    <string name="cr_card">Cr.Card</string>
+    <string name="coupon">Coupon</string>
+    <string name="sp_discount">Sp.Discount</string>
+    <string name="reserve_hold">Reserve/Hold</string>
+    <string name="deposit">Deposit</string>
+    <string name="customer_list">Customer List</string>
+    <string name="price_check">Price Check</string>
+    <string name="cancel_sale">Cancel Sale</string>
+
+    <string name="menu_main">Main Menu</string>
+    <string name="menu_fav">Fav. Menu</string>
+    <string name="menu_recent">Recent Menu</string>
+    <string name="blank"></string>
+    <string name="register">Register #</string>
+    <string name="dummy_register_no">1</string>
+    <string name="user_id">User ID:</string>
+    <string name="dummy_name">Hasmukhbhai Patel</string>
+    <string name="dummy_datetime">02/22/2022 02:01:59 PM</string>
+    <string name="support">Support:</string>
+    <string name="dummy_support_no">812-567-2767</string>
+
+    <string name="search_transaction_here">Search Transaction Here</string>
+    <string name="from_date">From Date</string>
+    <string name="from_time">From Time</string>
+    <string name="end_date">End Date</string>
+    <string name="end_time">End Time</string>
+    <string name="find">Find</string>
+    <string name="scan">Scan</string>
+    <string name="last_transaction">Last Trans</string>
+    <string name="sales_and_drops">Sales &amp; Drops</string>
+    <string name="drops">Drops</string>
+    <string name="item_return">Item Return</string>
+    <string name="no_sale">No Sale</string>
+
+    <string name="void_trans">Void Trans</string>
+    <string name="other_services">Other Services</string>
+    <string name="pay_supplier">Pay Supplier</string>
+    <string name="punch_inout">Punch In/Out</string>
+    <string name="lookup_reserved">Lookup Reserved</string>
+    <string name="return_deposit">Return Deposit</string>
+    <string name="print_recipt">Print Recipt</string>
+    <string name="fetch">Fetch</string>
+    <string name="change_qty">Change Qty</string>
+    <string name="complet_return">Complete Return</string>
+    <string name="new_sales">New Sales</string>
+    <string name="calculator">Calculator</string>
+    <string name="exit">Exit</string>
+    <string name="customerlist">CUSTOMERLIST</string>
+    <string name="filter">Filter</string>
+    <string name="search_by_qr_code">Search By QR Code</string>
+    <string name="search_by_phone">Search By #Phone</string>
+    <string name="search_by_name">Search By Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="hide_detail">Hide Detail</string>
+    <string name="show_detail">Show Detail</string>
+    <string name="good_morning_please_logon_register_4">Good Morning! please Logon Register #4</string>
+    <string name="jmsccontect_details">
+        Contact us for queries at:\n
+        <font size= "20">Jay Maharaj Software Consulting Inc.\n</font>
+        6400 B. Woodward Ave. Downers Grove, IL 60516
+    </string>
+    <string name="select">SELECT</string>
+    <string name="modify">MODIFY</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="quick_add">QUICK ADD</string>
+    <string name="upc">UPC</string>
+    <string name="txt">TEX</string>
+    <string name="salse_price">Salse Price</string>
+    <string name="vendor">Vendor</string>
+    <string name="size">Size</string>
+    <string name="save">SAVE</string>
+    <string name="login">Login</string>
+    <string name="cancel_login">Cancel</string>
+    <string name="_6400_b_woodward_ave_downers_grove_il_60516">6400 B. Woodward Ave. Downers Grove, IL 60516</string>
+    <string name="jay_maharaj_software_consulting_inc">Jay Maharaj Software Consulting Inc.</string>
+    <string name="contact_us_for_queries_at">Contact us for queries at:</string>
+</resources>

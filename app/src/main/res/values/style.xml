@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextView">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <!--<item name="fontFamily">@font/open_sans_regular</item>
+        <item name="android:textColor">@color/chinese_black</item>-->
+        <item name="android:textColor">@color/blue_dark</item>
+    </style>
+
+
+    <style name="TextView.TextView_36_SP">
+<!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_30</item>
+        <item name="android:layout_marginTop">@dimen/dp_10</item>
+        <item name="android:layout_marginStart">@dimen/dp_16</item>
+        <item name="android:layout_marginEnd">@dimen/dp_16</item>
+        <item name="singleLine">true</item>
+        <item name="android:text">@string/bills</item>
+        <item name="android:textStyle">bold</item>s
+    </style>
+
+    <style name="TextView.TextView_24_SP">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_24</item>
+        <item name="android:layout_marginTop">@dimen/dp_10</item>
+        <item name="android:layout_marginStart">@dimen/dp_16</item>
+        <item name="android:layout_marginEnd">@dimen/dp_16</item>
+        <item name="singleLine">true</item>
+        <item name="android:text">@string/bills</item>
+        <item name="android:textStyle">bold</item>s
+    </style>
+
+    <style name="TextView.TextView_18_SP">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_18</item>
+        <item name="android:layout_marginTop">@dimen/dp_10</item>
+        <item name="android:layout_marginStart">@dimen/dp_16</item>
+        <item name="android:layout_marginEnd">@dimen/dp_16</item>
+        <item name="singleLine">true</item>
+        <item name="android:text">@string/bills</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextView.TextView_16_SP">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:layout_marginTop">@dimen/dp_10</item>
+        <item name="android:layout_marginStart">@dimen/dp_16</item>
+        <item name="android:layout_marginEnd">@dimen/dp_16</item>
+        <item name="singleLine">true</item>
+        <item name="android:text">@string/bills</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextView.TextView_SalesTotal">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:layout_marginTop">@dimen/dp_10</item>
+        <item name="android:layout_marginStart">@dimen/dp_16</item>
+        <item name="android:layout_marginEnd">@dimen/dp_16</item>
+        <item name="singleLine">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextView.TextView_12_SP_Header">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_14</item>
+        <item name="android:layout_marginTop">@dimen/dp_8</item>
+        <item name="android:layout_marginStart">@dimen/dp_8</item>
+        <item name="android:layout_marginBottom">@dimen/dp_8</item>
+        <item name="singleLine">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextView.TextView_14_SP_Header">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_14</item>
+        <item name="android:layout_marginTop">@dimen/dp_8</item>
+        <item name="android:layout_marginStart">@dimen/dp_8</item>
+        <item name="android:layout_marginBottom">@dimen/dp_8</item>
+        <item name="singleLine">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextView.TextView_20_SP_Header">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_20</item>
+        <item name="android:layout_marginTop">@dimen/dp_8</item>
+        <item name="android:layout_marginStart">@dimen/dp_8</item>
+        <item name="android:layout_marginBottom">@dimen/dp_8</item>
+        <item name="singleLine">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextView.TextView_20_SP">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_20</item>
+        <item name="android:layout_marginTop">@dimen/dp_8</item>
+        <item name="android:layout_marginStart">@dimen/dp_8</item>
+        <item name="android:layout_marginBottom">@dimen/dp_8</item>
+        <item name="singleLine">true</item>
+    </style>
+
+    <style name="TextView.TextView_14_SP">
+        <!--        <item name="fontFamily">@font/open_sans_bold</item>-->
+        <item name="android:textSize">@dimen/sp_14</item>
+        <item name="android:layout_marginTop">@dimen/dp_8</item>
+        <item name="android:layout_marginStart">@dimen/dp_8</item>
+        <item name="android:layout_marginBottom">@dimen/dp_8</item>
+        <item name="singleLine">true</item>
+    </style>
+
+
+</resources>
